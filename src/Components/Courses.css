@@ -1,0 +1,41 @@
+  .card {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-left: 1%;
+      text-align: justify;
+    }
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  .card .content {
+    padding: 1rem;
+  }
+  .card h5 {
+    margin: 0 0 0.5rem;
+  }
+  .pd{
+    color:rgb(186, 10, 186);
+    font-family:'Orbitron',sans-serif;
+  }
+  
+  .card p {
+    margin: 0;
+  }
+  .incenter{
+    margin-left: 16%;
+  }
+  .row{
+    display: flex;
+    margin-left: -8%;
+  }
+  .row1{
+    display: flex;
+    margin-left: -8%;
+    margin-top: 2%;
+  }

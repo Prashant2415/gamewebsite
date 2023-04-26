@@ -1,0 +1,33 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .card h5 {
+    margin: 0 0 0.5rem;
+  }
+  
+  .card p {
+    margin: 0;
+  }
+  .w{
+    color: white;
+    font-family:'Orbitron',sans-serif;
+  }
+  /* .p{
+    color: rgb(186, 10, 186);
+  } */
+  .h{
+    font-family: 'Orbitron',sans-serif;
+  }
+  .distext{
+    display: flex;
+    margin-left: 10%;
+  }
+  .disimgtext{
+    display: flex;
+    margin-left: 22%;
+  }
